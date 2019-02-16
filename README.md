@@ -1,3 +1,6 @@
+![Photo Wall](https://i.postimg.cc/fRFwktGL/Capture.jpg)
+![Single Photo](https://i.postimg.cc/sXCs4FDC/Capture2.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
